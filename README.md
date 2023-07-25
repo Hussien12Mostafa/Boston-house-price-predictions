@@ -28,7 +28,7 @@ Target variable:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your_username/boston-house-price-prediction.git
+git clone git@github.com:Hussien12Mostafa/Boston-house-price-predictions.git
 
 2. Ensure you have Python 3 and the required libraries installed:
 
